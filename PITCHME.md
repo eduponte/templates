@@ -1,6 +1,6 @@
-# Sunkist
+# Llicències Pamapam
 
-### Llicències Pamapam
+### Comi TIC
 
 
 ---
@@ -11,7 +11,8 @@
 - Absència de llicència = Copyright |
 - Com es difonen els continguts? |
 - Com evolucionen les eines tecnològiques? |
-- On és... |la comunitat? |
+- On és... |
+  - la comunitat? |
 
 ---
 
@@ -27,15 +28,15 @@
 ## Codi
 
 - Extensa varietat: Apache, MIT, GPL, BSD, etc... |
-- Orientades a dinàmiques de codi lliure |
-- Diferent nivells de llibertat |
-- Compatibilitat amb components utilitzats
+- Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
+- [Diferents nivells de llibertat](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
+- [Compatibilitat amb components utilitzats](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
 
 ---
 
 ## Codi
 
-- Proposta: GPLv3 !!
+- Proposta: GPLv3 |
 
 ---
 
@@ -47,24 +48,24 @@
 
 ---
 
-## Codi
+## Contingut
 
 - Proposta 1: CC-BY-SA |
-  - Copyleft
-  - Estàndar
+  - Copyleft |
+  - Estàndar |
   - Aciva, reconeguda i acceptada a entorns jurídics |
 
 - Proposta 2: P2P-BY-SA |
-  - Copyfarleft
-  - No estàndar
-  - Més restricció a l'us d'obres derivades (p2p)
-  - Sense activitat els darrers anys
+  - Copyfarleft |
+  - No estàndar |
+  - Restricció a l'us d'obres derivades (p2p) |
+  - Sense activitat recent |
   - Utilitzada a l'entorn XES |
 
 
 ---
 
-## Marca
+## Dades
 
 - Qui pot replicar Pamapam, fent servir el nom? |
 - Qui protegeix marca? |
@@ -72,9 +73,18 @@
 
 ---
 
+## Marca
+
+- Qui pot replicar Pamapam, fent servir el nom? |
+- Qui protegeix marca? |
+ - Wikipedia |
+ - Apache Software Foundation |
+
+---
+
 ### Preguntes?
 
-|
+ |
 
 Gràcies!
 
