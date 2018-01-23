@@ -7,9 +7,13 @@
 
 ## Contexte
 
-- Pamapam Web 2017-2018 |
+- Pamapam Web - Entrega codi font |
 - Absència de llicència = Copyright |
-- Mapeig a línies estratègiques |
+- Mapeig de línies estratègiques |
+- Compromisos i restriccions sobre assets de la comunitat |
+ - Us |
+ - Modificació |
+ - Distribució |
 
 ---
 
@@ -37,7 +41,7 @@
 
 ## Codi
 
-- Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... |
+- [Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc...  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) |
 - Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
 - [Diferents nivells de llibertat  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
 - [Compatibilitat amb components utilitzats  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
@@ -46,14 +50,14 @@
 
 ## Codi
 
-- Proposta: GPLv3 |
+- GPLv3 (o Affero GPLv3) |
 
 ---
 
 ## Contingut
 
 - Copyright vs Creative Commons |
-- Orientades a obra |
+- Orientades a obra digital |
 - Diferent nivells de llibertat |
   - BY: reconeixement |
   - SA: derivats amb mateixa llicència |
@@ -87,7 +91,7 @@
  - Export estàtic de dades públiques (online) |
  - Export estàtic de dades sensibles (sota demanda) |
 - Suficient? |
- - Integració amb projectes afins _(cas _katuma_) |
+ - Integració amb projectes afins (cas katuma) |
  - API pública/privada |
 
 ---
