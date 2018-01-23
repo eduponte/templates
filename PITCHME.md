@@ -23,7 +23,7 @@
   - els continguts? |
 - Com evolucionen... |
   - les eines tecnològiques? |
-- Com retornem al procomú... |
+- Com es retorna al procomú... |
   - la inversió col·lectiva? |
 - On és... |
   - la comunitat? |
@@ -66,20 +66,23 @@
 ---
 
 ## Contingut
+### Proposta 1
 
-- Proposta 1: CC-BY-SA 4.0 |
+- CC-BY-SA 4.0 |
   - Copyleft |
   - Estàndar |
-  - Aciva, reconeguda i acceptada a entorns jurídics |
+  - Activa
+  - Reconeguda i acceptada a entorns jurídics |
 
 ---
 
 ## Contingut
+### Proposta 2
 
-- Proposta 2: Peer Production (BY-SA-NoCapitalista) |
+- Peer Production PPL (BY-SA-NoCapitalista) |
   - Copyfarleft |
   - No estàndar |
-  - Restricció a l'us d'obres derivades (p2p) |
+  - Restricció a l'us d'obres derivades (Peer production) |
   - Sense activitat recent |
   - Considerada a l'entorn XES (balanç social) |
 
@@ -90,6 +93,7 @@
 - Consens actual: posició conservadora |
  - Export estàtic de dades públiques (online) |
  - Export estàtic de dades sensibles (sota demanda) |
+- Llicència: Consistent amb la de continguts (CC-BY-SA 4.0 o PPL)
 - Suficient? |
  - Integració amb projectes afins (cas katuma) |
  - API pública/privada |
