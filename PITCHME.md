@@ -39,8 +39,8 @@
 
 - Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... |
 - Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
-- [Diferents nivells de llibertat](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
-- [Compatibilitat amb components utilitzats](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
+- [Diferents nivells de llibertat  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
+- [Compatibilitat amb components utilitzats  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
 
 ---
 
@@ -87,7 +87,7 @@
  - Export estàtic de dades públiques (online) |
  - Export estàtic de dades sensibles (sota demanda) |
 - Suficient? |
- - _Integració amb projectes afins_ _(cas katuma)_ |
+ - Integració amb projectes afins _(cas _katuma_) |
  - API pública/privada |
 
 ---
