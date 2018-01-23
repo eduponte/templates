@@ -71,7 +71,7 @@
 - CC-BY-SA 4.0 |
   - Copyleft |
   - Estàndar |
-  - Activa
+  - Activa |
   - Reconeguda i acceptada a entorns jurídics |
 
 ---
@@ -93,7 +93,7 @@
 - Consens actual: posició conservadora |
  - Export estàtic de dades públiques (online) |
  - Export estàtic de dades sensibles (sota demanda) |
-- Llicència: Consistent amb la de continguts (CC-BY-SA 4.0 o PPL)
+- Llicència: Consistent amb la de continguts (CC-BY-SA 4.0 o PPL) |
 - Suficient? |
  - Integració amb projectes afins (cas katuma) |
  - API pública/privada |
