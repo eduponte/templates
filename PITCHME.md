@@ -9,14 +9,24 @@
 
 - Pamapam Web 2017-2018 |
 - Absència de llicència = Copyright |
-- Com es difonen els continguts? |
-- Com evolucionen les eines tecnològiques? |
+- Mapeig a línies estratègiques
+
+---
+
+## Contexte
+
+- Com es difonen...  |
+  - els continguts? |
+- Com evolucionen... |
+  - les eines tecnològiques? |
+- Com retornem al procomú... |
+  - la inversió col·lectiva? |
 - On és... |
   - la comunitat? |
 
 ---
 
-## Assets a determinar
+## Assets de la comunitat
 
 - Codi |
 - Contingut |
@@ -29,8 +39,8 @@
 
 - Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... |
 - Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
-- Diferents nivells de llibertat [->](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
-- Compatibilitat amb components utilitzats [->](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
+- [Diferents nivells de llibertat](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
+- [Compatibilitat amb components utilitzats](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
 
 ---
 
@@ -42,9 +52,12 @@
 
 ## Contingut
 
-- Extensa varietat: Apache, MIT, GPL, BSD, etc... |
+- Copyright vs Creative Commons |
 - Orientades a obra |
-- Diferent nivells de llibertat (reconeixement, modificació, $) |
+- Diferent nivells de llibertat |
+  - BY: reconeixement |
+  - SA: modificació |
+  - NC: no $ |
 
 ---
 
@@ -55,6 +68,10 @@
   - Estàndar |
   - Aciva, reconeguda i acceptada a entorns jurídics |
 
+---
+
+## Contingut
+
 - Proposta 2: P2P-BY-SA |
   - Copyfarleft |
   - No estàndar |
@@ -62,19 +79,22 @@
   - Sense activitat recent |
   - Utilitzada a l'entorn XES |
 
-
 ---
 
 ## Dades
 
-- Qui pot replicar Pamapam, fent servir el nom? |
-- Qui protegeix marca? |
- - Wikipedia
+- Consens actual: posició conservadora |
+ - Export estàtic de dades públiques (online) |
+ - Export estàtic de dades sensibles (sota demanda) |
+- Suficient? |
+ - Integració amb projectes afins (cas _katuma_) |
+ - API pública/privada !
 
 ---
 
 ## Marca
 
+- Sobrepassa àmbit digital |
 - Qui pot replicar Pamapam, fent servir el nom? |
 - Qui protegeix marca? |
  - Wikipedia |
