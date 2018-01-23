@@ -100,18 +100,19 @@
 
 - Sobrepassa àmbit digital |
 - Qui pot replicar Pamapam, fent servir el nom? |
-- Qui protegeix marca? |
+- Algunes marques protegides |
  - Wikipedia |
  - Apache Software Foundation |
+ - Debian |
  - Eclipse Foundation |
 
 ---
 
-### Preguntes?
+## Preguntes?
 
 ---
 
-### Gràcies!
+## Gràcies!
 
 <br>
 
