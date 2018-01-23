@@ -27,10 +27,10 @@
 
 ## Codi
 
-- Extensa varietat: Apache, MIT, GPL, BSD, etc... |
+- Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... |
 - Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
-- [Diferents nivells de llibertat](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
-- [Compatibilitat amb components utilitzats](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
+- Diferents nivells de llibertat [->](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
+- Compatibilitat amb components utilitzats [->](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
 
 ---
 
@@ -79,19 +79,20 @@
 - Qui protegeix marca? |
  - Wikipedia |
  - Apache Software Foundation |
+ - Eclipse Foundation |
 
 ---
 
 ### Preguntes?
 
- |
+---
 
-Gràcies!
-
-<br>
+### Gràcies!
 
 <br>
 
-Llista: `comissio_tic_pap@framalistes.org`
 <br>
-Riot/Matrix: `#comissio_tic_pap:matrix.org`
+
+Llista: ```comissio_tic_pap@framalistes.org```
+<br>
+Riot/Matrix: ```#comissio_tic_pap:matrix.org```
