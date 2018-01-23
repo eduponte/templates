@@ -9,7 +9,7 @@
 
 - Pamapam Web 2017-2018 |
 - Absència de llicència = Copyright |
-- Mapeig a línies estratègiques
+- Mapeig a línies estratègiques |
 
 ---
 
@@ -56,14 +56,14 @@
 - Orientades a obra |
 - Diferent nivells de llibertat |
   - BY: reconeixement |
-  - SA: modificació |
+  - SA: derivats amb mateixa llicència |
   - NC: no $ |
 
 ---
 
 ## Contingut
 
-- Proposta 1: CC-BY-SA |
+- Proposta 1: CC-BY-SA 4.0 |
   - Copyleft |
   - Estàndar |
   - Aciva, reconeguda i acceptada a entorns jurídics |
@@ -72,12 +72,12 @@
 
 ## Contingut
 
-- Proposta 2: P2P-BY-SA |
+- Proposta 2: Peer Production (BY-SA-NoCapitalista) |
   - Copyfarleft |
   - No estàndar |
   - Restricció a l'us d'obres derivades (p2p) |
   - Sense activitat recent |
-  - Utilitzada a l'entorn XES |
+  - Considerada a l'entorn XES (balanç social) |
 
 ---
 
@@ -87,8 +87,8 @@
  - Export estàtic de dades públiques (online) |
  - Export estàtic de dades sensibles (sota demanda) |
 - Suficient? |
- - Integració amb projectes afins (cas _katuma_) |
- - API pública/privada !
+ - _Integració amb projectes afins_ _(cas katuma)_ |
+ - API pública/privada |
 
 ---
 
