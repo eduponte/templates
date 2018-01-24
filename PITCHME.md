@@ -9,9 +9,9 @@
 
 ![Receptes](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/kitchenware_520x292.png?itok=kOScSJ5M)
 <br>
-_Image by : Opensource.com_
+<em style="font-size: 20px">Image by : Opensource.com</em>
 
-[An open source analogy: Open source is like sharing a recipe @fa[external-link gp-download]](https://opensource.com/life/12/6/open-source-like-sharing-recipe)
+[Bryan Behrenshausen - An open source analogy: Open source is like sharing a recipe @fa[external-link gp-download]](https://opensource.com/life/12/6/open-source-like-sharing-recipe)
 
 ---
 
