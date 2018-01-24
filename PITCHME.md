@@ -89,7 +89,7 @@
 - Copyleft |
 - Estàndar |
 - Activa |
-- Reconeguda i reconeguda jurídicament |
+- Acceptada i reconeguda jurídicament |
 
 ---
 
