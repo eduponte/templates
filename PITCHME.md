@@ -51,7 +51,7 @@
 ## Codi
 ### GPLv3 (o Affero GPLv3)
 
-- GNU i la Free Software Foundation |
+- @fa[thumbs-up](GNU i la Free Software Foundation) |
 - Llicència més difosa en FLOSS |
 - Primera llicència copyleft per a us general |
 - Versions modificades del codi romanen lliures i de codi obert |
