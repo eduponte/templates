@@ -48,20 +48,18 @@
 
 ---
 
-### Codi
-#### AGPLv3
+### Codi - AGPLv3
 
 ![AGPL](https://de.shopware.com/media/unknown/1d/50/d0/agpl3_logo-17258485.jpg)
 
 - GPL=GNU General Public License |
-- Creada originalment per Richard Stallman i la Free Software Foundation (FSF) per el projecto GNU |
+- Creada originalment per Richard Stallman i la Free Software Foundation (FSF) pel projecte GNU |
 - Llicència més difosa en programari lliure i codi obert |
 - GPLv3 Primera llicència copyleft per a us general |
 
 ---
 
-### Codi
-#### AGPLv3
+### Codi - AGPLv3
 
 ![AGPL](https://de.shopware.com/media/unknown/1d/50/d0/agpl3_logo-17258485.jpg)
 
@@ -69,7 +67,7 @@
 - Extén copyleft |
  - Exigeix l'us de GPLv3 per adaptacions |
 - GPLv3 esmena GPLv2 |
-- A=Affero - Dissenyada per software que corre en servidors de xarxa
+- A=Affero - Dissenyada per software de servidors de xarxa |
 
 ---
 
@@ -84,8 +82,7 @@
 
 ---
 
-### Contingut
-#### Proposta 1: CC-BY-SA 4.0
+### Contingut - Proposta 1: CC-BY-SA 4.0
 
 ![CC-BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
@@ -96,8 +93,7 @@
 
 ---
 
-### Contingut
-#### Proposta 2: Peer Production PPL
+### Contingut - Proposta 2: Peer Production PPL
 
 ![PPL](assets/image/ppl.png)
 
