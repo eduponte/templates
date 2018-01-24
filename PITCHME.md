@@ -41,7 +41,7 @@
 
 ## Codi
 
-- Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... [@fa[external-link gp-download]](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) |
+- [Extensa varietat: Apache, MIT, GPL, BSD, Eclipse, etc... @fa[external-link gp-download]](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) |
 - Orientades a dinàmiques de codi lliure (ecosistema FOSS) |
 - [Diferents nivells de llibertat  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Software-license-compatiblity-graph.svg) |
 - [Compatibilitat amb components utilitzats  @fa[external-link gp-download]](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png) |
@@ -51,7 +51,7 @@
 ## Codi
 ### GPLv3 (o Affero GPLv3)
 
-- GNU i la Free Software Foundation @fa[thumbs-up] |
+- GNU i la Free Software Foundation |
 - Llicència més difosa en FLOSS |
 - Primera llicència copyleft per a us general |
 - Versions modificades del codi romanen lliures i de codi obert |
