@@ -48,8 +48,8 @@
 
 ---
 
-## Codi
-### AGPLv3
+### Codi
+#### AGPLv3
 
 ![AGPL](https://de.shopware.com/media/unknown/1d/50/d0/agpl3_logo-17258485.jpg)
 
@@ -60,17 +60,16 @@
 
 ---
 
-## Codi
-### GPLv3 (o Affero GPLv3)
+### Codi
+#### AGPLv3
 
 ![AGPL](https://de.shopware.com/media/unknown/1d/50/d0/agpl3_logo-17258485.jpg)
 
 - Versions modificades del codi romanen lliures i de codi obert |
 - Extén copyleft |
  - Exigeix l'us de GPLv3 per adaptacions |
-- Esmena GPLv2 |
-- A=Affero |
- - Dissenyada específicament per software que corre en servidors de xarxa
+- GPLv3 esmena GPLv2 |
+- A=Affero - Dissenyada per software que corre en servidors de xarxa
 
 ---
 
@@ -85,27 +84,26 @@
 
 ---
 
-## Contingut
-### Proposta 1: CC-BY-SA 4.0
+### Contingut
+#### Proposta 1: CC-BY-SA 4.0
 
 ![CC-BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
 - Copyleft |
 - Estàndar |
 - Activa |
-- Reconeguda i acceptada a entorns jurídics |
+- Reconeguda i reconeguda jurídicament |
 
 ---
 
-## Contingut
-### Proposta 2: Peer Production PPL
+### Contingut
+#### Proposta 2: Peer Production PPL
 
 ![PPL](assets/image/ppl.png)
 
 - Copyfarleft: BY-SA-NoCapitalista |
-- Copyfarleft |
 - No estàndar |
-- Restriccions adicionals sobre derivades (Peer production) |
+- Restriccions sobre derivades (Peer production) |
 - Sense activitat recent |
 - Considerada a l'entorn XES (balanç social) |
 
