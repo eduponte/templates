@@ -130,12 +130,13 @@
 ## Marca
 
 - Sobrepassa àmbit digital |
-- Qui pot replicar Pamapam, fent servir el nom? |
+- Qui pot fer servir el nom o logo de Pamapam? |
 - Algunes marques protegides |
  - Wikipedia |
- - Apache Software Foundation |
- - Debian |
- - Eclipse Foundation |
+ - Linux (i Linux Foundation), Debian, Apache Software Foundation |
+ - WordPress, Drupal |
+ - LibreOffice |
+ - OpenStreetMap |
 
 ---
 
