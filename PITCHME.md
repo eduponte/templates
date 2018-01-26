@@ -95,6 +95,7 @@
 ### Contingut - Proposta 1: CC-BY-SA
 
 ![CC-BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+<br>
 [Triar llicència CC @fa[external-link gp-download]](https://creativecommons.org/choose/)
 
 - Copyleft |
